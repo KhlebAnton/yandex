@@ -41,6 +41,7 @@ body {
 
 a {
     text-decoration: none;
+    -webkit-appearance: none;
 }
 
 ul {
