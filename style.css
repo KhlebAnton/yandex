@@ -41,7 +41,8 @@ body {
 
 a {
     text-decoration: none;
-    -webkit-appearance: none;
+    color: #21201F;
+
 }
 
 ul {
@@ -533,6 +534,9 @@ margin-bottom: 32px;
     header {
         min-width: 100%;
         min-height: 95vh;
+    }
+    .slider-container,.slider-btns {
+        display: block;
     }
 
     .wrapper {
