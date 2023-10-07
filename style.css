@@ -587,7 +587,7 @@ margin-bottom: 32px;
 
     header form button {
         position: fixed;
-        margin: 0;
+        margin: 0 auto;
         top: 90%;
         width: 311px;
         padding: 18px 0px;
@@ -597,6 +597,7 @@ margin-bottom: 32px;
         font-style: normal;
         font-weight: 500;
         line-height: 22px;
+        
     }
 
     header .wrapper::after {
