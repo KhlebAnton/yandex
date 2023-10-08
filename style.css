@@ -177,6 +177,7 @@ header .new-price {
 }
 
 form button {
+    color: #21201F;
     margin-top: 44px;
     padding: 24px 48px;
     align-items: center;
@@ -589,7 +590,7 @@ margin-bottom: 32px;
         position: fixed;
         margin: 0 auto;
         top: 90%;
-        width: 311px;
+        width: 100%;
         padding: 18px 0px;
         justify-content: center;
         align-items: center;
